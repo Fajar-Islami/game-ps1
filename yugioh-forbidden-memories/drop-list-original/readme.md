@@ -112,7 +112,7 @@ Dark Magic Ritual: UNCONFIRMED
 
 ### Simon Muran
  
-
+   
 9 Shadow Specter 92         
 16 Time wizard 54         
 19 Right Arm of the Forbidden One 6         
@@ -254,7 +254,7 @@ Dark Magic Ritual: UNCONFIRMED
   
 ### Villager 1
  
-
+   
 9 Shadow Specter 60         
 20 Left Arm of the Forbidden One 6         
 24 Skull Servant 60         
@@ -319,13 +319,13 @@ Dark Magic Ritual: UNCONFIRMED
   
 ### Villager 2
  
-
+   
 9 Shadow Specter 25         
 19 Right Arm of the Forbidden One 12         
 24 Skull Servant 25         
-45 Oscillo Hero #2 25
-96 Armored Zombie 25
-97 Dragon Zombie 25
+45 Oscillo Hero #2 25   
+96 Armored Zombie 25   
+97 Dragon Zombie 25   
 98 Clown Zombie 25         
 102 Dark Mask 12         
 108 Graveyard and the Hand of Invitation 25         
@@ -407,14 +407,14 @@ Dark Magic Ritual: UNCONFIRMED
 ### Villager 3
  
          
-4 Baby Dragon 15
+4 Baby Dragon 15   
 9 Shadow Specter 15         
 20 Left Arm of the Forbidden One 4         
 24 Skull Servant 15         
 45 Oscillo Hero #2 15         
-47 Torike 15
-96 Armored Zombie 15
-97 Dragon Zombie 15
+47 Torike 15   
+96 Armored Zombie 15   
+97 Dragon Zombie 15   
 98 Clown Zombie 17         
 108 Graveyard and the Hand of Invitation 17         
 133 Charubin the fire knight 17         
@@ -515,7 +515,7 @@ Dark Magic Ritual: UNCONFIRMED
 8 Mushroom man 40         
 19 Right Arm of the Forbidden One 5         
 50 Basic Insect 17         
-75 Man-eating Plant 100
+75 Man-eating Plant 100   
 98 Clown Zombie 19         
 101 Wings of Wicked Flames 40         
 104 Curtain of the Dark Ones 19         
@@ -618,9 +618,9 @@ Dark Magic Ritual: UNCONFIRMED
 36 The Snake Hair 26         
 42 Illusionist Faceless Mage 26         
 44 Rogue Doll 26         
-74 Giant Soldier of Stone 26
-96 Armored Zombie 26
-97 Dragon Zombie 26
+74 Giant Soldier of Stone 26   
+96 Armored Zombie 26   
+97 Dragon Zombie 26   
 98 Clown Zombie 26         
 104 Curtain of the Dark Ones 26         
 106 Spirit of the Winds 26         
@@ -707,8 +707,8 @@ Dark Magic Ritual: UNCONFIRMED
 29 Mountain Warrior 18         
 45 Oscillo Hero #2 18         
 47 Torike 18         
-48 Sangan 18
-96 Armored Zombie 16
+48 Sangan 18   
+96 Armored Zombie 16   
 97 Dragon Zombie 16         
 100 Battle Warrior 16         
 105 Tomozaurus 32         
@@ -905,13 +905,13 @@ Dark Magic Ritual: UNCONFIRMED
   
 ### Bandit Keith
  
-
+   
 9 Shadow Specter 36         
 19 Right Arm of the Forbidden One 10         
 24 Skull Servant 36         
-30 Zombie Warrior 36
-96 Armored Zombie 108
-97 Dragon Zombie 108
+30 Zombie Warrior 36   
+96 Armored Zombie 108   
+97 Dragon Zombie 108   
 98 Clown Zombie 108         
 108 Graveyard and the Hand of Invitation 36         
 132 The 13th grave 36         
@@ -968,9 +968,9 @@ Dark Magic Ritual: UNCONFIRMED
 29 Mountain Warrior 12         
 45 Oscillo Hero #2 12         
 48 Sangan 12         
-50 Basic Insect 12
-96 Armored Zombie 12
-97 Dragon Zombie 12
+50 Basic Insect 12   
+96 Armored Zombie 12   
+97 Dragon Zombie 12   
 98 Clown Zombie 12         
 101 Wings of Wicked Flames 12         
 107 Kagenigen 12         
@@ -1485,9 +1485,9 @@ Dark Magic Ritual: UNCONFIRMED
 50 Basic Insect 12         
 70 Fiend Kraken 50         
 71 Jellyfish 50         
-77 Grappler 22
-96 Armored Zombie 12
-97 Dragon Zombie 12
+77 Grappler 22   
+96 Armored Zombie 12   
+97 Dragon Zombie 12   
 98 Clown Zombie 12         
 101 Wings of Wicked Flames 12         
 107 Kagenigen 12         
@@ -1662,7 +1662,7 @@ Dark Magic Ritual: UNCONFIRMED
 40 Dragon Piper 19         
 50 Basic Insect 19         
 75 Man-eating Plant 105         
-76 Krokodilus 39
+76 Krokodilus 39   
 98 Clown Zombie 19         
 101 Wings of Wicked Flames 39         
 104 Curtain of the Dark Ones 19         
@@ -1841,7 +1841,7 @@ Dark Magic Ritual: UNCONFIRMED
   
 ### Mountain Mage
  
-
+   
 9 Shadow Specter 56         
 20 Left Arm of the Forbidden One 4         
 24 Skull Servant 56         
@@ -1944,8 +1944,8 @@ Dark Magic Ritual: UNCONFIRMED
 78 Axe raider 28         
 81 Crawling dragon #2 30         
 83 Castle of Dark Illusions 30         
-86 Barox 30
-91 Mystic Horseman 30
+86 Barox 30   
+91 Mystic Horseman 30   
 95 Crass Clown 30         
 125 Faith Bird 64         
 127 Ansatsu 30         
@@ -2002,8 +2002,8 @@ Dark Magic Ritual: UNCONFIRMED
 48 Sangan 16         
 59 Mammoth Graveyard 32         
 80 Uraby 62         
-81 Crawling dragon #2 62
-96 Armored Zombie 16
+81 Crawling dragon #2 62   
+96 Armored Zombie 16   
 97 Dragon Zombie 16         
 100 Battle Warrior 16         
 107 Kagenigen 16         
@@ -2122,9 +2122,9 @@ Dark Magic Ritual: UNCONFIRMED
 65 Silver Fang 12         
 77 Grappler 12         
 83 Castle of Dark Illusions 12         
-86 Barox 12
-91 Mystic Horseman 12
-95 Crass Clown 12
+86 Barox 12   
+91 Mystic Horseman 12   
+95 Crass Clown 12   
 97 Dragon Zombie 12         
 100 Battle Warrior 12         
 103 Job Change Mirror 12         
@@ -2251,7 +2251,7 @@ Dark Magic Ritual: UNCONFIRMED
  
          
 2 Mystical Elf 46         
-6 Feral Imp 46
+6 Feral Imp 46   
 9 Shadow Specter 150         
 10 Blackland Fire Dragon 46         
 19 Right Arm of the Forbidden One 4         
@@ -2300,7 +2300,7 @@ Dark Magic Ritual: UNCONFIRMED
 26 Battle Ox 100         
 31 Koumori Dragon 56         
 34 Saggi the Dark Clown 100         
-77 Grappler 100
+77 Grappler 100   
 91 Mystic Horseman 100         
 122 Yamatano Dragon Scroll 48         
 168 Darkfire Dragon 48         
@@ -2342,9 +2342,9 @@ Dark Magic Ritual: UNCONFIRMED
 65 Silver Fang 14         
 70 Fiend Kraken 14         
 71 Jellyfish 14         
-80 Uraby 14
-96 Armored Zombie 14
-97 Dragon Zombie 14
+80 Uraby 14   
+96 Armored Zombie 14   
+97 Dragon Zombie 14   
 98 Clown Zombie 14         
 103 Job Change Mirror 14         
 108 Graveyard and the Hand of Invitation 14         
@@ -2489,7 +2489,7 @@ Dark Magic Ritual: UNCONFIRMED
 65 Silver Fang 32         
 74 Giant Soldier of Stone 32         
 78 Axe raider 12         
-89 Catapult Turtle 32
+89 Catapult Turtle 32   
 93 Zanki 12         
 100 Battle Warrior 12         
 107 Kagenigen 12         
@@ -2581,10 +2581,10 @@ Dark Magic Ritual: UNCONFIRMED
 83 Castle of Dark Illusions 24         
 86 Barox 24         
 87 Dark Chimera 24         
-89 Catapult Turtle 24
-91 Mystic Horseman 24
-93 Zanki 70
-95 Crass Clown 46
+89 Catapult Turtle 24   
+91 Mystic Horseman 24   
+93 Zanki 70   
+95 Crass Clown 46   
 97 Dragon Zombie 70         
 106 Spirit of the Winds 24         
 108 Graveyard and the Hand of Invitation 24         
@@ -2670,7 +2670,7 @@ Dark Magic Ritual: UNCONFIRMED
 84 Reaper of the Cards 67         
 86 Barox 67         
 87 Dark Chimera 67         
-88 Metal Guardian 67
+88 Metal Guardian 67   
 95 Crass Clown 43         
 103 Job Change Mirror 21         
 115 Kamion Wizard 21         
@@ -2737,9 +2737,9 @@ Dark Magic Ritual: UNCONFIRMED
 36 The Snake Hair 26         
 42 Illusionist Faceless Mage 26         
 44 Rogue Doll 26         
-74 Giant Soldier of Stone 26
-96 Armored Zombie 26
-97 Dragon Zombie 26
+74 Giant Soldier of Stone 26   
+96 Armored Zombie 26   
+97 Dragon Zombie 26   
 98 Clown Zombie 26         
 104 Curtain of the Dark Ones 26         
 106 Spirit of the Winds 26         
@@ -2828,7 +2828,7 @@ Dark Magic Ritual: UNCONFIRMED
 84 Reaper of the Cards 20         
 86 Barox 20         
 87 Dark Chimera 20         
-88 Metal Guardian 20
+88 Metal Guardian 20   
 95 Crass Clown 20         
 103 Job Change Mirror 16         
 119 Trial of Nightmares 16         
@@ -2942,7 +2942,7 @@ Dark Magic Ritual: UNCONFIRMED
 47 Torike 20         
 61 Wolf 20         
 65 Silver Fang 20         
-68 Garoozis 20
+68 Garoozis 20   
 91 Mystic Horseman 20         
 113 Dark Gray 20         
 121 Sleeping Lion 20         
@@ -3080,14 +3080,14 @@ Dark Magic Ritual: UNCONFIRMED
 ### Duel Master K
  
          
-4 Baby Dragon 15
+4 Baby Dragon 15   
 9 Shadow Specter 15         
 20 Left Arm of the Forbidden One 4         
 24 Skull Servant 15         
 45 Oscillo Hero #2 15         
-47 Torike 15
-96 Armored Zombie 15
-97 Dragon Zombie 15
+47 Torike 15   
+96 Armored Zombie 15   
+97 Dragon Zombie 15   
 98 Clown Zombie 17         
 108 Graveyard and the Hand of Invitation 17         
 133 Charubin the fire knight 17         
@@ -3185,7 +3185,7 @@ Dark Magic Ritual: UNCONFIRMED
 ## B/C/D POW&TEC SECTION
   
 ### Simon
-
+   
 9 Shadow Specter 98         
 16 Time wizard 57         
 19 Right Arm of the Forbidden One 6         
@@ -3309,7 +3309,7 @@ TOT: 2048
 TOT: 2048
 
 ### Paesano1
-
+   
 9 Shadow Specter 76         
 20 Left Arm of the Forbidden One 6         
 24 Skull Servant 76         
@@ -3348,16 +3348,16 @@ TOT: 2048
 TOT: 2048
 
 ### Paesano2
-
+   
 9 Shadow Specter 26         
 19 Right Arm of the Forbidden One 12         
 24 Skull Servant 26         
 40 Dragon Piper 26         
 45 Oscillo Hero #2 26         
 61 Wolf 26         
-65 Silver Fang 26
-96 Armored Zombie 26
-97 Dragon Zombie 26
+65 Silver Fang 26   
+96 Armored Zombie 26   
+97 Dragon Zombie 26   
 98 Clown Zombie 26         
 102 Dark Mask 12         
 108 Graveyard and the Hand of Invitation 26         
@@ -3435,7 +3435,7 @@ TOT: 2048
 
 ### Paesano 3
          
-4 Baby Dragon 18
+4 Baby Dragon 18   
 9 Shadow Specter 18         
 20 Left Arm of the Forbidden One 8         
 24 Skull Servant 18         
@@ -3444,9 +3444,9 @@ TOT: 2048
 47 Torike 18         
 59 Mammoth Graveyard 18         
 61 Wolf 18         
-65 Silver Fang 18
-96 Armored Zombie 18
-97 Dragon Zombie 18
+65 Silver Fang 18   
+96 Armored Zombie 18   
+97 Dragon Zombie 18   
 98 Clown Zombie 18         
 108 Graveyard and the Hand of Invitation 18         
 118 Supporter in the Shadows 18         
@@ -3543,7 +3543,7 @@ TOT: 2048
 8 Mushroom man 42         
 19 Right Arm of the Forbidden One 5         
 50 Basic Insect 21         
-75 Man-eating Plant 115
+75 Man-eating Plant 115   
 98 Clown Zombie 21         
 101 Wings of Wicked Flames 42         
 104 Curtain of the Dark Ones 21         
@@ -3635,11 +3635,11 @@ TOT: 2048
 42 Illusionist Faceless Mage 26         
 44 Rogue Doll 28         
 74 Giant Soldier of Stone 28         
-79 Megazowler 24
-90 Gyakutenno Megami 24
-96 Armored Zombie 28
-97 Dragon Zombie 28
-98 Clown Zombie 28
+79 Megazowler 24   
+90 Gyakutenno Megami 24   
+96 Armored Zombie 28   
+97 Dragon Zombie 28   
+98 Clown Zombie 28   
 99 Pumpking the King of Ghosts 48         
 104 Curtain of the Dark Ones 28         
 106 Spirit of the Winds 28         
@@ -3706,8 +3706,8 @@ TOT: 2048
 29 Mountain Warrior 19         
 45 Oscillo Hero #2 19         
 47 Torike 19         
-48 Sangan 19
-96 Armored Zombie 19
+48 Sangan 19   
+96 Armored Zombie 19   
 97 Dragon Zombie 19         
 100 Battle Warrior 19         
 105 Tomozaurus 38         
@@ -3892,7 +3892,7 @@ TOT: 2048
 54 Gokibore 40         
 55 Giant Flea 40         
 70 Fiend Kraken 40         
-71 Jellyfish 40
+71 Jellyfish 40   
 95 Crass Clown 40         
 125 Faith Bird 120         
 136 Witty Phantom 40         
@@ -3920,15 +3920,15 @@ TOT: 2048
 TOT: 2048
   
 ### Bandit Keith
-
+   
 9 Shadow Specter 40         
 19 Right Arm of the Forbidden One 12         
 24 Skull Servant 40         
 30 Zombie Warrior 40         
-36 The Snake Hair 108
-95 Crass Clown 40
-96 Armored Zombie 108
-97 Dragon Zombie 108
+36 The Snake Hair 108   
+95 Crass Clown 40   
+96 Armored Zombie 108   
+97 Dragon Zombie 108   
 98 Clown Zombie 108         
 108 Graveyard and the Hand of Invitation 40         
 132 The 13th grave 40         
@@ -3979,9 +3979,9 @@ TOT: 2048
 29 Mountain Warrior 12         
 45 Oscillo Hero #2 12         
 48 Sangan 12         
-50 Basic Insect 12
-96 Armored Zombie 12
-97 Dragon Zombie 12
+50 Basic Insect 12   
+96 Armored Zombie 12   
+97 Dragon Zombie 12   
 98 Clown Zombie 12         
 101 Wings of Wicked Flames 12         
 107 Kagenigen 12         
@@ -4313,7 +4313,7 @@ TOT: 2048
 58 Kuriboh 26         
 70 Fiend Kraken 26         
 71 Jellyfish 26         
-77 Grappler 26
+77 Grappler 26   
 95 Crass Clown 52         
 103 Job Change Mirror 26         
 115 Kamion Wizard 26         
@@ -4454,9 +4454,9 @@ TOT: 2048
 50 Basic Insect 12         
 70 Fiend Kraken 56         
 71 Jellyfish 56         
-77 Grappler 24
-96 Armored Zombie 12
-97 Dragon Zombie 12
+77 Grappler 24   
+96 Armored Zombie 12   
+97 Dragon Zombie 12   
 98 Clown Zombie 12         
 101 Wings of Wicked Flames 12         
 107 Kagenigen 12         
@@ -4567,7 +4567,7 @@ TOT: 2048
 34 Saggi the Dark Clown 33         
 44 Rogue Doll 33         
 87 Dark Chimera 35         
-89 Catapult Turtle 35
+89 Catapult Turtle 35   
 93 Zanki 35         
 104 Curtain of the Dark Ones 33         
 106 Spirit of the Winds 76         
@@ -4628,7 +4628,7 @@ TOT: 2048
 40 Dragon Piper 22         
 50 Basic Insect 22         
 75 Man-eating Plant 117         
-76 Krokodilus 42
+76 Krokodilus 42   
 98 Clown Zombie 22         
 101 Wings of Wicked Flames 42         
 104 Curtain of the Dark Ones 22         
@@ -4788,11 +4788,11 @@ TOT: 2048
 TOT: 2048
 
 ###  Mountain Mage
-
+   
 9 Shadow Specter 72         
 20 Left Arm of the Forbidden One 6         
 24 Skull Servant 72         
-58 Kuriboh 72
+58 Kuriboh 72   
 94 Crawling Dragon 10         
 111 Doma the Angel of Silence 10         
 112 The Wich that Feeds on Life 10         
@@ -4873,8 +4873,8 @@ TOT: 2048
 81 Crawling dragon #2 27         
 83 Castle of Dark Illusions 27         
 86 Barox 27         
-89 Catapult Turtle 27
-91 Mystic Horseman 27
+89 Catapult Turtle 27   
+91 Mystic Horseman 27   
 95 Crass Clown 27         
 125 Faith Bird 84         
 127 Ansatsu 27         
@@ -4922,8 +4922,8 @@ TOT: 2048
 48 Sangan 18         
 59 Mammoth Graveyard 36         
 80 Uraby 64         
-81 Crawling dragon #2 64
-96 Armored Zombie 18
+81 Crawling dragon #2 64   
+96 Armored Zombie 18   
 97 Dragon Zombie 18         
 100 Battle Warrior 18         
 107 Kagenigen 18         
@@ -5037,9 +5037,9 @@ TOT: 2048
 77 Grappler 12         
 83 Castle of Dark Illusions 12         
 86 Barox 12         
-87 Dark Chimera 12
-91 Mystic Horseman 12
-95 Crass Clown 12
+87 Dark Chimera 12   
+91 Mystic Horseman 12   
+95 Crass Clown 12   
 97 Dragon Zombie 12         
 100 Battle Warrior 12         
 103 Job Change Mirror 12         
@@ -5163,7 +5163,7 @@ TOT: 2048
 ### Meadow Mage
          
 2 Mystical Elf 50         
-6 Feral Imp 50
+6 Feral Imp 50   
 9 Shadow Specter 178         
 10 Blackland Fire Dragon 50         
 19 Right Arm of the Forbidden One 12         
@@ -5177,7 +5177,7 @@ TOT: 2048
 48 Sangan 50         
 59 Mammoth Graveyard 50         
 65 Silver Fang 50         
-89 Catapult Turtle 50
+89 Catapult Turtle 50   
 94 Crawling Dragon 22         
 102 Dark Mask 22         
 111 Doma the Angel of Silence 22         
@@ -5210,7 +5210,7 @@ TOT: 2048
 712 Meteor dragon 12         
 714 Firewing pegasus 2         
 2 Mystical Elf 50         
-6 Feral Imp 50
+6 Feral Imp 50   
 9 Shadow Specter 178         
 10 Blackland Fire Dragon 50         
 19 Right Arm of the Forbidden One 12         
@@ -5224,7 +5224,7 @@ TOT: 2048
 48 Sangan 50         
 59 Mammoth Graveyard 50         
 65 Silver Fang 50         
-89 Catapult Turtle 50
+89 Catapult Turtle 50   
 94 Crawling Dragon 22         
 102 Dark Mask 22         
 111 Doma the Angel of Silence 22         
@@ -5277,8 +5277,8 @@ TOT: 2048
 74 Giant Soldier of Stone 39         
 77 Grappler 78         
 84 Reaper of the Cards 39         
-88 Metal Guardian 39
-91 Mystic Horseman 78
+88 Metal Guardian 39   
+91 Mystic Horseman 78   
 93 Zanki 40         
 122 Yamatano Dragon Scroll 40         
 126 Orion the Battle King 39         
@@ -5326,9 +5326,9 @@ TOT: 2048
 71 Jellyfish 16         
 74 Giant Soldier of Stone 14         
 80 Uraby 16         
-89 Catapult Turtle 14
-96 Armored Zombie 16
-97 Dragon Zombie 16
+89 Catapult Turtle 14   
+96 Armored Zombie 16   
+97 Dragon Zombie 16   
 98 Clown Zombie 16         
 103 Job Change Mirror 16         
 108 Graveyard and the Hand of Invitation 16         
@@ -5465,9 +5465,9 @@ TOT: 2048
 74 Giant Soldier of Stone 40         
 78 Axe raider 18         
 79 Megazowler 18         
-89 Catapult Turtle 38
-90 Gyakutenno Megami 18
-93 Zanki 18
+89 Catapult Turtle 38   
+90 Gyakutenno Megami 18   
+93 Zanki 18   
 99 Pumpking the King of Ghosts 18         
 100 Battle Warrior 18         
 107 Kagenigen 18         
@@ -5539,11 +5539,11 @@ TOT: 2048
 83 Castle of Dark Illusions 26         
 86 Barox 26         
 87 Dark Chimera 26         
-89 Catapult Turtle 26
-91 Mystic Horseman 26
-93 Zanki 76
-95 Crass Clown 76
-97 Dragon Zombie 76
+89 Catapult Turtle 26   
+91 Mystic Horseman 26   
+93 Zanki 76   
+95 Crass Clown 76   
+97 Dragon Zombie 76   
 99 Pumpking the King of Ghosts 76         
 106 Spirit of the Winds 26         
 108 Graveyard and the Hand of Invitation 26         
@@ -5623,7 +5623,7 @@ TOT: 2048
 85 King of Yamimakai 67         
 86 Barox 67         
 87 Dark Chimera 67         
-88 Metal Guardian 67
+88 Metal Guardian 67   
 95 Crass Clown 46         
 103 Job Change Mirror 26         
 115 Kamion Wizard 26         
@@ -5681,11 +5681,11 @@ TOT: 2048
 42 Illusionist Faceless Mage 26         
 44 Rogue Doll 28         
 74 Giant Soldier of Stone 28         
-79 Megazowler 24
-90 Gyakutenno Megami 24
-96 Armored Zombie 28
-97 Dragon Zombie 28
-98 Clown Zombie 28
+79 Megazowler 24   
+90 Gyakutenno Megami 24   
+96 Armored Zombie 28   
+97 Dragon Zombie 28   
+98 Clown Zombie 28   
 99 Pumpking the King of Ghosts 48         
 104 Curtain of the Dark Ones 28         
 106 Spirit of the Winds 28         
@@ -5757,9 +5757,9 @@ TOT: 2048
 85 King of Yamimakai 22         
 86 Barox 32         
 87 Dark Chimera 32         
-88 Metal Guardian 32
-90 Gyakutenno Megami 22
-95 Crass Clown 32
+88 Metal Guardian 32   
+90 Gyakutenno Megami 22   
+95 Crass Clown 32   
 99 Pumpking the King of Ghosts 24         
 103 Job Change Mirror 32         
 119 Trial of Nightmares 32         
@@ -5845,9 +5845,9 @@ TOT: 2048
 65 Silver Fang 24         
 68 Garoozis 24         
 79 Megazowler 22         
-85 King of Yamimakai 22
-90 Gyakutenno Megami 22
-91 Mystic Horseman 24
+85 King of Yamimakai 22   
+90 Gyakutenno Megami 22   
+91 Mystic Horseman 24   
 99 Pumpking the King of Ghosts 22         
 113 Dark Gray 24         
 121 Sleeping Lion 24         
@@ -5912,8 +5912,8 @@ TOT: 2048
 70 Fiend Kraken 48         
 71 Jellyfish 48         
 79 Megazowler 34         
-89 Catapult Turtle 48
-90 Gyakutenno Megami 34
+89 Catapult Turtle 48   
+90 Gyakutenno Megami 34   
 99 Pumpking the King of Ghosts 34         
 131 Octoberser 48         
 140 Toad master 48         
@@ -5961,7 +5961,7 @@ TOT: 2048
 
 ### Duel Master K
          
-4 Baby Dragon 18
+4 Baby Dragon 18   
 9 Shadow Specter 18         
 20 Left Arm of the Forbidden One 8         
 24 Skull Servant 18         
@@ -5970,9 +5970,9 @@ TOT: 2048
 47 Torike 18         
 59 Mammoth Graveyard 18         
 61 Wolf 18         
-65 Silver Fang 18
-96 Armored Zombie 18
-97 Dragon Zombie 18
+65 Silver Fang 18   
+96 Armored Zombie 18   
+97 Dragon Zombie 18   
 98 Clown Zombie 18         
 108 Graveyard and the Hand of Invitation 18         
 118 Supporter in the Shadows 18         
